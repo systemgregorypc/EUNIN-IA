@@ -1,0 +1,29 @@
+Los microcontroladores PIC16F87x de Microchip pertenecen a una gran familia de microcontroladores con un bus de datos de 8 bits, que tienen las siguientes características generales que los distinguen de otras familias:
+
+– Arquitectura Harvard
+– Tecnología RISC
+– Tecnología CMOS
+– Sólo posee 35 instrucciones que aprender
+– Todas las instrucciones se ejecutan en un ciclo de reloj, excepto los saltos, que requieren dos ciclos
+– Frecuencia de operación de 0 a 20 MHz (desde CC a 200 ns de ciclo de instrucción)
+– Hasta 8K x 14 bits de memoria FLASH para el programa
+– Hasta 368 bytes de memoria de datos de acceso aleatorio (RAM)
+– Hasta 256 bytes de memoria de datos EEPROM
+– Hasta 14 fuentes de interrupción en los de 28 patas y 15 en los de 40 patas
+– Pila (Stack) de hardware de 8 niveles
+– Reset de encendido (POR)
+– Temporizador de encendido (PWRT)
+– Temporizador de arranque del oscilador (OST)
+– Sistema de vigilancia Watchdog Timer (temporizador «despertador»).
+– Se puede programar una protección de código
+– Modo SLEEP (dormido) de bajo consumo de energía
+– Diversas opciones para el oscilador
+– Programación y depuración serie (ICSP, In Circuit Serial Programming = Programación Serie En Circuito) a través de dos patas
+– El CPU puede realizar lectura/escritura de la memoria FLASH de programa
+– Rango de voltaje de operación de 2,0 a 5,5 volts
+– Puede entregar alta corriente en una pata de salida: 25 mA
+– Rangos de temperatura: Comercial, Industrial y Extendido
+– Bajo consumo de potencia:
+    . Menos de 0,6 mA a 3 V, 4 MHz
+    . 20 µA a 3 V, 32 KHz
+    . Menos de 1µA de corriente en estado latente (stand by).
