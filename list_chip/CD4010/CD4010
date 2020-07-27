@@ -1,0 +1,12 @@
+INTERFASE CMOS/TTL
+
+Para la realización del hardware, se usa en esta función
+(entradas digitales) la parte   baja   del   puerto   B   
+(   RB0,RB1,RB2,RB3),   como   entrada,   pero   para   evitar  
+el   inconveniente de que las entradas del PLC deben cumplir con la norma CMOS a 12 voltios,
+y las entradas del puerto B del PIC cumplen con la norma CMOS pero de bajo voltaje (+5 V),  
+se  acondicionó  la  señal  de  entrada  con  un  convertidor  de  nivel  de  voltaje,  como  el  CD4010,
+que  como  se  muestra  en  la  figura  1.4,  la  función  principal 
+es  acoplar  lógica  CMOS de alto voltaje a bajo voltaje 
+
+
